@@ -37,9 +37,11 @@ It provides insights into sales performance, customer behavior, and product tren
 
 ## 📷 Dashboard Preview
 
-*(Add screenshots here)*
+Screenshot 1-
 <img width="1169" height="654" alt="2026-01-10 (2)" src="https://github.com/user-attachments/assets/f0d1b309-2cbb-4152-99ff-c2f011a16628" />
+Screenshot 2-
 <img width="1165" height="653" alt="2026-01-10 (3)" src="https://github.com/user-attachments/assets/d9794a62-bd9f-41e4-9c2b-8bff6af8c90f" />
+Screenshot 3-
 <img width="1163" height="650" alt="2026-01-10 (1)" src="https://github.com/user-attachments/assets/f36dcaf6-9494-4f47-86da-695e0c8401be" />
 ---
 
