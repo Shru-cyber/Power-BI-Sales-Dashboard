@@ -89,7 +89,7 @@ E-commerce-Sales-Dashboard/
 **Shruti Singh**
 
 * Passionate about AI, ML & Data Analytics
-* Skilled in Python, SQL, and Data Visualization
+* Skilled in Python,ML Libraries, SQL, and Data Visualization
 
 ---
 
