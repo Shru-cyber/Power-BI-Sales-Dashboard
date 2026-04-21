@@ -76,13 +76,6 @@ E-commerce-Sales-Dashboard/
 2. Open it using Microsoft Power BI Desktop
 3. Explore the dashboard and interact with filters & visuals
 
----
-
-## 🌐 Live Dashboard
-
-*(Optional – add Power BI Service link here)*
-
----
 
 ## 👩‍💻 Author
 
